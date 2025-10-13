@@ -53,7 +53,7 @@ Gosto de desafios, de trabalhar em equipe e de transformar ideias em projetos re
 
 
   <!-- Botão das estrelas do GitHub -->
-  <a href="https://github.com/MClaraFr?tab=repositories&sort=stargazers" target="_blank">
+  <a href="https://github.com/MClarafr?tab=repositories&sort=stargazers" target="_blank">
     <img 
       alt="Total de estrelas" 
       title="Total de estrelas no GitHub" 
@@ -62,7 +62,7 @@ Gosto de desafios, de trabalhar em equipe e de transformar ideias em projetos re
   </a>
 
   <!-- Botão de seguidores -->
-  <a href="https://github.com/MClaraFr?tab=followers" target="_blank">
+  <a href="https://github.com/MClarafr?tab=followers" target="_blank">
     <img 
       alt="Seguidores" 
       title="Me siga no GitHub" 
@@ -78,11 +78,11 @@ Gosto de desafios, de trabalhar em equipe e de transformar ideias em projetos re
 <div align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=MClaraFr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=MClarafr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MClaraFr&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MClarafr&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </div>
 
