@@ -33,7 +33,7 @@ Gosto de desafios, de trabalhar em equipe e de transformar ideias em projetos re
 ---
 
 ### 📫 Contato
-📧 **mariaclaraf4592@gmail.com**  
+📧 **mariacllfrr@gmail.com**  
 
 ---
 
