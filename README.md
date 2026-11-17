@@ -1,64 +1,75 @@
-<p align="center">
-  <img src="./assets/banner-maria-clara.png" alt="Maria Clara | Where logic meets creativity" width="100%">
-</p>
 
-<p align="center">
-  <em>Where logic meets creativity.</em>
-</p>
 
-<p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas
-</p>
+\<p align="center">   \<em>Where logic meets creativity.\</em> \</p>
+
+\<p align="center">   Estudante de Análise e Desenvolvimento de Sistemas \</p>
 
 ---
-
-## 01 / Um pouco de contexto
 
 ### Sobre mim
 
-Olá! Sou Maria Clara, estudante de Análise e Desenvolvimento de Sistemas.
+Sou Maria Clara, estudante de Análise e Desenvolvimento de Sistemas. Tenho interesse em desenvolvimento de software, banco de dados e arquitetura de sistemas.
 
-Gosto de unir pensamento lógico e criatividade para transformar ideias em soluções. Tenho interesse em desenvolvimento de sistemas, bancos de dados, segurança e prototipação de interfaces.
+Gosto de unir pensamento lógico e criatividade para transformar ideias em soluções, explorando tanto a construção de sistemas quanto a experiência de quem os utiliza.
 
-Acredito que desenvolver software vai além de escrever código: envolve entender problemas, organizar informações e pensar em soluções que façam sentido.
+### Tech stack
 
-## 02 / Formação
+**Linguagens**
 
-**Análise e Desenvolvimento de Sistemas**
 
-## 03 / Tecnologias e ferramentas
 
-| Desenvolvimento | Banco de dados | Design e ferramentas |
-|:---:|:---:|:---:|
-| Java | SQL | Figma |
-| PHP | MySQL | Git |
-| Laravel | PostgreSQL | GitHub |
-| Flutter | | |
+\
 
-## 04 / Projetos em destaque
 
-### Margeo
+**Frameworks e desenvolvimento**
 
-**PWA para gestão agrícola**
 
-Sistema desenvolvido para auxiliar no gerenciamento de talhões, produtos e aplicações agrícolas, centralizando informações e facilitando o acompanhamento dos custos por área.
+\
 
-O projeto envolve desenvolvimento de aplicações, organização de dados e aplicação de regras de negócio.
 
-## 05 / Atualmente explorando
+**Ferramentas**
 
-- Desenvolvimento de aplicações
-- Arquitetura e organização de sistemas
-- Banco de dados
-- UX/UI e prototipação
-- Inteligência artificial aplicada ao desenvolvimento
+
+\
+
 
 ---
 
-<p align="center">
-  <em>Construindo minha jornada na tecnologia, uma ideia de cada vez.</em>
-</p>
+### Featured project
 
-<p align="center">
-  MC · Maria Clara
-</p>
+\<table>
+\<tr>
+\<td width="100%">
+
+#### 🌾 Margeo
+
+**Agricultural management system**
+
+PWA desenvolvido para auxiliar no gerenciamento de atividades agrícolas, centralizando informações e facilitando o acompanhamento dos custos por área.
+
+- Gerenciamento de talhões.
+- Cadastro de produtos.
+- Registro e histórico de aplicações.
+- Controle de consumo e custos agrícolas.
+
+`Flutter` `Laravel` `SQL` `Docker`
+
+\</td>
+\</tr>
+\</table>
+
+### Currently exploring
+
+- Desenvolvimento de APIs
+- Arquitetura de software
+- Modelagem e gerenciamento de bancos de dados
+- Desenvolvimento mobile
+- UX/UI e prototipação
+
+---
+
+\<p align="center">
+&#x20; \<em>Designed with intention. Built with curiosity.\</em>
+&#x20; \<br>\<br>
+&#x20; \*\*Maria Clara · MC\*\*
+\</p>
